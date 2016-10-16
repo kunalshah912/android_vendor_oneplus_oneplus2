@@ -516,7 +516,6 @@ PRODUCT_PACKAGES += \
     imssettings \
     qcnvitems \
     qcrilhook
-    libqmiservices
     
 # OxygenOS 3 Camera
 PRODUCT_PACKAGES += \
