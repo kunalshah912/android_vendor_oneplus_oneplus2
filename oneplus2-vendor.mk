@@ -485,7 +485,9 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libxtadapter.so:system/vendor/lib64/libxtadapter.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:system/vendor/lib64/libxtwifi_ulp_adaptor.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/sensors.ssc.so:system/vendor/lib64/sensors.ssc.so \
-    vendor/oneplus/oneplus2/proprietary/vendor/qcril.db:system/vendor/qcril.db
+    vendor/oneplus/oneplus2/proprietary/vendor/qcril.db:system/vendor/qcril.db \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib/hw/vulkan.msm8994.so:system/vendor/lib/hw/vulkan.msm8994.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib64/hw/vulkan.msm8994.so:system/vendor/lib64/hw/vulkan.msm8994.so
 
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
