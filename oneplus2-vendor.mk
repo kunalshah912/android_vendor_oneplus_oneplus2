@@ -523,8 +523,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libfilter-sdk \
     libopbaselib \
-    libopcameralib \
-    libopcamera \
     lib-imscamera \
     libimscamera_jni \
     libimsmedia_jni \
