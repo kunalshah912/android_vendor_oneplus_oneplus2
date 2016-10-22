@@ -487,6 +487,8 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/lib/hw/vulkan.msm8994.so:system/lib/hw/vulkan.msm8994.so \
     vendor/oneplus/oneplus2/proprietary/lib64/hw/vulkan.msm8994.so:system/lib64/hw/vulkan.msm8994.so
 
+include vendor/qcom/binaries/msm8994/graphics/graphics-vendor.mk
+
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
     libloc_ds_api \
