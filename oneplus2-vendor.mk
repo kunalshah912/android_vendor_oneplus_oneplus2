@@ -44,6 +44,13 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/oneplus/oneplus2/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/oneplus/oneplus2/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
+    vendor/oneplus/oneplus2/proprietary/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
+	vendor/oneplus/oneplus2/proprietary/etc/acdbdata/MTP/MTP_General_cal.acdb:system/etc/acdbdata/MTP/MTP_General_cal.acdb \
+	vendor/oneplus/oneplus2/proprietary/etc/acdbdata/MTP/MTP_Global_cal.acdb:system/etc/acdbdata/MTP/MTP_Global_cal.acdb \
+	vendor/oneplus/oneplus2/proprietary/etc/acdbdata/MTP/MTP_Handset_cal.acdb:system/etc/acdbdata/MTP/MTP_Handset_cal.acdb \
+	vendor/oneplus/oneplus2/proprietary/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb:system/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb \
+	vendor/oneplus/oneplus2/proprietary/etc/acdbdata/MTP/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/MTP_Headset_cal.acdb \
+	vendor/oneplus/oneplus2/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/oneplus/oneplus2/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
     vendor/oneplus/oneplus2/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
     vendor/oneplus/oneplus2/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
