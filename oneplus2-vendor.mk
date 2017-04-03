@@ -110,6 +110,7 @@ PRODUCT_COPY_FILES += \
 	vendor/oneplus/oneplus2/proprietary/framework/org.codeaurora.camera.jar:/system/framework/org.codeaurora.camera.jar \
     vendor/oneplus/oneplus2/proprietary/lib/hw/camera.vendor.msm8994.so:system/lib/hw/camera.vendor.msm8994.so \
     vendor/oneplus/oneplus2/proprietary/lib/hw/fingerprint.msm8994.so:system/lib/hw/fingerprint.msm8994.so \
+    vendor/oneplus/oneplus2/proprietary/lib/modules/hcube.ko:system/lib/modules/hcube.ko \
     vendor/oneplus/oneplus2/proprietary/lib/libFNVfbEngineLib.so:system/lib/libFNVfbEngineLib.so \
     vendor/oneplus/oneplus2/proprietary/lib/lib_fpc_tac_shared.so:system/lib/lib_fpc_tac_shared.so \
     vendor/oneplus/oneplus2/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
