@@ -103,9 +103,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/etc/thermal-engine-8994.conf:system/etc/thermal-engine-8994.conf \
     vendor/oneplus/oneplus2/proprietary/framework/ConnectivityExt.jar:system/framework/ConnectivityExt.jar \
     vendor/oneplus/oneplus2/proprietary/framework/QtiTelephonyServicelibrary.jar:system/framework/QtiTelephonyServicelibrary.jar \
-    vendor/oneplus/oneplus2/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
     vendor/oneplus/oneplus2/proprietary/framework/com.qti.location.sdk.jar:system/framework/com.qti.location.sdk.jar \
-    vendor/oneplus/oneplus2/proprietary/framework/com.quicinc.cne.jar:system/framework/com.quicinc.cne.jar \
     vendor/oneplus/oneplus2/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/oneplus/oneplus2/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
 	vendor/oneplus/oneplus2/proprietary/framework/org.codeaurora.camera.jar:/system/framework/org.codeaurora.camera.jar \
@@ -510,8 +508,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     datastatusnotification \
     shutdownlistener \
-    CNEService \
-    QtiTetherService \
     com.qualcomm.location \
     qcrilmsgtunnel \
     ims \
