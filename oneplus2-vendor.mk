@@ -107,9 +107,11 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
 	vendor/oneplus/oneplus2/proprietary/framework/org.codeaurora.camera.jar:/system/framework/org.codeaurora.camera.jar \
     vendor/oneplus/oneplus2/proprietary/lib/hw/fingerprint.msm8994.so:system/lib/hw/fingerprint.msm8994.so \
+    vendor/oneplus/oneplus2/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/oneplus/oneplus2/proprietary/lib/libFNVfbEngineLib.so:system/lib/libFNVfbEngineLib.so \
     vendor/oneplus/oneplus2/proprietary/lib/lib_fpc_tac_shared.so:system/lib/lib_fpc_tac_shared.so \
     vendor/oneplus/oneplus2/proprietary/lib64/hw/fingerprint.msm8994.so:system/lib64/hw/fingerprint.msm8994.so \
+    vendor/oneplus/oneplus2/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
     vendor/oneplus/oneplus2/proprietary/lib64/lib_fpc_tac_shared.so:system/lib64/lib_fpc_tac_shared.so \
     vendor/oneplus/oneplus2/proprietary/lib64/libparam.so:system/lib64/libparam.so \
     vendor/oneplus/oneplus2/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
